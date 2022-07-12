@@ -5,3 +5,5 @@ var age = 12;
 var age12 = True;
 name = "JustKarrar";
 console.log(This is fun);
+console.log(name);
+assign a string variable for the dog's name
